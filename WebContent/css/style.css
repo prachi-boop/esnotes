@@ -1,0 +1,45 @@
+.bg-custom{
+	background: #8e24aa
+}
+
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	background: black;
+	border-radius:10px;
+	
+}
+
+.b-img{
+	height: 80vh;
+	width: 200%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.div-color{
+	
+
+background-image: linear-gradient(to right top, #4c071c, #6a3652, #806486, #9493b4, #b2c2da);
+height:500px;
+}
+
+body {
+	height: 100%;
+	display: contents;
+}
+
+.m{
+	height: 860px;
+}
+
+.l{
+	height: 711px
+}
+
+.k{
+	background-image: linear-gradient(to right top, #4c071c, #6a3652, #806486, #9493b4, #b2c2da);
+}
